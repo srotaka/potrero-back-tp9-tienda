@@ -1,0 +1,10 @@
+INSERT INTO `ropa` (`id`, `tipo_prenda`, `marca`, `talle`, `precio`) 
+VALUES (NULL, 'buzo', 'nike', 'xl', '1500'), 
+(NULL, 'buzo', 'addidas', 'xxl', '600'), 
+(NULL, 'buzo', 'supreme', 'l', '300'), 
+(NULL, 'remera', 'nike', 's', '800'), 
+(NULL, 'remera', 'addidas', 'xxxl', '500'), 
+(NULL, 'remera', 'supreme', 'm', '400'), 
+(NULL, 'buzo', 'nike', 'xxl', '600'), 
+(NULL, 'buzo', 'addidas', 'l', '400'), 
+(NULL, 'campera', 'topper', 'xs', '850')
